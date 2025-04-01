@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+
+.container .some-child {
+  font-size: 24px;
+}
+
+/*# sourceMappingURL=test1111.css.map */
